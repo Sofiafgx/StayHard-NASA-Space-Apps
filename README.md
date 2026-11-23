@@ -156,7 +156,6 @@ Built during NASA Space Apps Challenge 2026 by the StayHard team:
 
 Oleksii Martyniuk · Mykyta Cherniavskyi · Bohdan Parkulab · Sofiia Stoliar · Oleksandr Zalievskyi · Heorhii Shvets
 
-The original team repository: [MartyniukAleksei/StayHard-Nasa-SpaceAppsChallange](https://github.com/MartyniukAleksei/StayHard-Nasa-SpaceAppsChallange).
 
 ## Data and credits
 
